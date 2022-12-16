@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PRIMEIRO DESAFIO/PRIMEIRO DESAFIO.iml" filepath="$PROJECT_DIR$/PRIMEIRO DESAFIO/PRIMEIRO DESAFIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QUARTO DESAFIO/QUARTO DESAFIO.iml" filepath="$PROJECT_DIR$/QUARTO DESAFIO/QUARTO DESAFIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEGUNDO DESAFIO/SEGUNDO DESAFIO.iml" filepath="$PROJECT_DIR$/SEGUNDO DESAFIO/SEGUNDO DESAFIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TERCEIRO DESAFIO/TERCEIRO DESAFIO.iml" filepath="$PROJECT_DIR$/TERCEIRO DESAFIO/TERCEIRO DESAFIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafios-supera.iml" filepath="$PROJECT_DIR$/.idea/desafios-supera.iml" />
+    </modules>
+  </component>
+</project>
